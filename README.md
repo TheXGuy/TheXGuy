@@ -1,5 +1,8 @@
-Hi! 👋 My name is TheXGuy
-========================Developer and YouTuber----------------------Hi! I'm TheXGuy! I'm a YouTuber that also has a passion for coding (among other things).* 🌍  I'm based in the EST Time Zone.
+# Hi! 👋 My name is TheXGuy
+## Developer and YouTuber
+Hi! I'm TheXGuy! I'm a YouTuber that also has a passion for coding (among other things).
+
+* 🌍  I'm based in the EST Time Zone.
 
 <a href="https://www.github.com/TheXGuy" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/TheXGuy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 

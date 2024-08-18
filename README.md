@@ -1,4 +1,4 @@
-# Hi! 👋 My name is TheXGuy
+# Hi! 👋 My name is TheXGuy!
 ## Developer and YouTuber
 **Hi! I'm TheXGuy! I'm a YouTuber that also has a passion for coding (among other things).**
 
